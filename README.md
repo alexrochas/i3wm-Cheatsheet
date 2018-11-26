@@ -3,11 +3,14 @@
 
 Dynamic i3 cheatsheet.
 
+Inspired by [this reddit thread](https://www.reddit.com/r/i3wm/comments/a00s8p/made_myself_a_pretty_popup_cheat_sheet/).
+
 ## How
 
 Your i3wm config file must be in the format:
 
-> [bindcode|bindsym] **bindkey** **command** **#commentary**
+> **#commentary**  
+> [bindcode|bindsym] **bindkey** **command**
 
 ## Run
 
