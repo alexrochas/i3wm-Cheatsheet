@@ -30,10 +30,10 @@ floating_modifier $mod
 
 # start a terminal
 # bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec ~/.config/i3/shell # start a new terminal
+bindsym $mod+Return exec ~/.config/i3/shell
 
 # kill focused window
-bindsym $mod+Shift+Q kill # kill focused window
+bindsym $mod+Shift+Q kill
 
 # start dmenu (a program launcher)
 bindsym $mod+d exec dmenu_run -p alex$
